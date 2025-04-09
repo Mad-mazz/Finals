@@ -699,7 +699,7 @@ image_30 = canvas.create_image(
 )
 
 canvas.create_text(
-    957.0,
+    951.0,
     113.0,
     anchor="nw",
     text="NEW ARRIVALS",
